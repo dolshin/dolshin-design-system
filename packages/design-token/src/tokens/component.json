@@ -1,0 +1,90 @@
+{
+  "button": {
+    "color": {
+      "primary": {
+        "default": {
+          "bg": {
+            "$type": "color",
+            "$value": "{color.accent.primary}"
+          },
+          "fg": {
+            "$type": "color",
+            "$value": "{color.text.inverse}"
+          },
+          "border": {
+            "$type": "color",
+            "$value": "{color.border.default}"
+          }
+        },
+        "hover": {
+          "bg": {
+            "$type": "color",
+            "$value": "{color.accent.secondary}"
+          },
+          "border": {
+            "$type": "color",
+            "$value": "{color.text.primary}"
+          },
+          "fg": {
+            "$type": "color",
+            "$value": "{color.text.secondary}"
+          }
+        },
+        "disabled": {
+          "bg": {
+            "$type": "color",
+            "$value": "{color.accent.primary}"
+          },
+          "fg": {
+            "$type": "color",
+            "$value": "{color.text.primary}"
+          },
+          "border": {
+            "$type": "color",
+            "$value": "{color.border.default}"
+          }
+        }
+      }
+    },
+    "text": {
+      "$type": "typography",
+      "$value": "{typography.inline.md}"
+    },
+    "sizing": {
+      "md": {
+        "height": {
+          "$type": "sizing",
+          "$value": "{sizing.control.md}"
+        }
+      },
+      "lg": {
+        "height": {
+          "$type": "sizing",
+          "$value": "{sizing.control.md}"
+        }
+      }
+    },
+    "spacing": {
+      "md": {
+        "paddingInline": {
+          "$type": "spacing",
+          "$value": "{spacing.stack.sm}"
+        },
+        "paddingBlock": {
+          "$type": "spacing",
+          "$value": "{spacing.stack.xs}"
+        }
+      },
+      "lg": {
+        "paddingInline": {
+          "$type": "spacing",
+          "$value": "{spacing.stack.sm}"
+        },
+        "paddingBlock": {
+          "$type": "spacing",
+          "$value": "{spacing.stack.xs}"
+        }
+      }
+    }
+  }
+}
