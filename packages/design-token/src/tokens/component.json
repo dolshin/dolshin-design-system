@@ -116,7 +116,7 @@
       "default": {
         "bg": {
           "$type": "color",
-          "$value": "{color.accent.primary}"
+          "$value": "{color.surface.base}"
         },
         "fg": {
           "$type": "color",

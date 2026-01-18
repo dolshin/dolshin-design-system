@@ -49,11 +49,11 @@
     "surface": {
       "base": {
         "$type": "color",
-        "$value": "{color.gray.10}"
+        "$value": "{color.gray.0}"
       },
       "subtle": {
         "$type": "color",
-        "$value": "{color.gray.50}"
+        "$value": "{color.gray.25}"
       }
     },
     "status": {
