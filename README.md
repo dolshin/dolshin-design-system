@@ -1,6 +1,6 @@
 <h1> 📖 dolshin-design-system</h1>
 
-<div style="text-align: center;">
+<div align="center">
 
 ![Base UI](https://img.shields.io/badge/Base%20UI-1.1.0-6366F1?style=flat-square)
 ![Vanilla Extract](https://img.shields.io/badge/Vanilla%20Extract-1.17.5-F786AD?style=flat-square&logo=vanillaextract)
