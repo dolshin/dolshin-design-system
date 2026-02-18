@@ -45,7 +45,7 @@ Gatsby から Next.js への移行を進めていく中で、下記の課題を�
 
 下記のリンクから Storybook をご覧いただけます。<br/>
 UI コンポーネントの状態やバリエーションを確認できます。<br/>
-👉 [Storybook デモ](https://6971793da7deabdbd1160a09-zhycozfecx.chromatic.com/)
+👉 [Storybook デモ](https://6971793da7deabdbd1160a09-ynqmpdomnr.chromatic.com/)
 
 
 
